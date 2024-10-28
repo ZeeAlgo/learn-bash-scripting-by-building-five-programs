@@ -102,3 +102,4 @@ help until
 help [[ or help [[ expression ]]
 [[ hello == hello ]]
 [[ hello == world ]]
+[[ hello =~ el ]]
