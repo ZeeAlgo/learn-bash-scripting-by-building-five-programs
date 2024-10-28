@@ -130,3 +130,9 @@ type bash
 type psql
 type ./five.sh
 exit
+git status
+bash git add
+git add
+git commit -m
+git add
+git commit -a
