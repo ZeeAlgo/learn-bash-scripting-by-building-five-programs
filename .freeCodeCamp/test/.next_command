@@ -109,3 +109,4 @@ help [[ or help [[ expression ]]
 VAR="hello world"
 echo $VAR
 [[ $VAR == "hello world" ]]
+[[ $VAR =~ \?$ ]]
