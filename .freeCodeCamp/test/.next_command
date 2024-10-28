@@ -118,3 +118,4 @@ five.sh
 touch five.sh
 chmod +x five.sh
 ./five.sh
+clear
