@@ -100,3 +100,4 @@ help
 help until
 ./fortune.sh
 help [[ or help [[ expression ]]
+[[ hello == hello ]]
